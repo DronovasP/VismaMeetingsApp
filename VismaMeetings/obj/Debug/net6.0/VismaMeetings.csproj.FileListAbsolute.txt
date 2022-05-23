@@ -1,0 +1,30 @@
+C:\Users\EHZU\Desktop\VismaMeetings\VismaMeetings\bin\Debug\net6.0\VismaMeetings.exe
+C:\Users\EHZU\Desktop\VismaMeetings\VismaMeetings\bin\Debug\net6.0\VismaMeetings.deps.json
+C:\Users\EHZU\Desktop\VismaMeetings\VismaMeetings\bin\Debug\net6.0\VismaMeetings.runtimeconfig.json
+C:\Users\EHZU\Desktop\VismaMeetings\VismaMeetings\bin\Debug\net6.0\VismaMeetings.dll
+C:\Users\EHZU\Desktop\VismaMeetings\VismaMeetings\bin\Debug\net6.0\ref\VismaMeetings.dll
+C:\Users\EHZU\Desktop\VismaMeetings\VismaMeetings\bin\Debug\net6.0\VismaMeetings.pdb
+C:\Users\EHZU\Desktop\VismaMeetings\VismaMeetings\obj\Debug\net6.0\VismaMeetings.csproj.AssemblyReference.cache
+C:\Users\EHZU\Desktop\VismaMeetings\VismaMeetings\obj\Debug\net6.0\VismaMeetings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EHZU\Desktop\VismaMeetings\VismaMeetings\obj\Debug\net6.0\VismaMeetings.AssemblyInfoInputs.cache
+C:\Users\EHZU\Desktop\VismaMeetings\VismaMeetings\obj\Debug\net6.0\VismaMeetings.AssemblyInfo.cs
+C:\Users\EHZU\Desktop\VismaMeetings\VismaMeetings\obj\Debug\net6.0\VismaMeetings.csproj.CoreCompileInputs.cache
+C:\Users\EHZU\Desktop\VismaMeetings\VismaMeetings\obj\Debug\net6.0\VismaMeetings.dll
+C:\Users\EHZU\Desktop\VismaMeetings\VismaMeetings\obj\Debug\net6.0\ref\VismaMeetings.dll
+C:\Users\EHZU\Desktop\VismaMeetings\VismaMeetings\obj\Debug\net6.0\VismaMeetings.pdb
+C:\Users\EHZU\Desktop\VismaMeetings\VismaMeetings\obj\Debug\net6.0\VismaMeetings.genruntimeconfig.cache
+C:\Users\EHZU\OneDrive - Kaunas University of Technology\Project\VismaMeetings\VismaMeetings\obj\Debug\net6.0\VismaMeetings.csproj.AssemblyReference.cache
+C:\Users\EHZU\OneDrive - Kaunas University of Technology\Project\VismaMeetings\VismaMeetings\obj\Debug\net6.0\VismaMeetings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EHZU\OneDrive - Kaunas University of Technology\Project\VismaMeetings\VismaMeetings\obj\Debug\net6.0\VismaMeetings.AssemblyInfoInputs.cache
+C:\Users\EHZU\OneDrive - Kaunas University of Technology\Project\VismaMeetings\VismaMeetings\obj\Debug\net6.0\VismaMeetings.AssemblyInfo.cs
+C:\Users\EHZU\OneDrive - Kaunas University of Technology\Project\VismaMeetings\VismaMeetings\obj\Debug\net6.0\VismaMeetings.csproj.CoreCompileInputs.cache
+C:\Users\EHZU\OneDrive - Kaunas University of Technology\Project\VismaMeetings\VismaMeetings\obj\Debug\net6.0\VismaMeetings.dll
+C:\Users\EHZU\OneDrive - Kaunas University of Technology\Project\VismaMeetings\VismaMeetings\obj\Debug\net6.0\ref\VismaMeetings.dll
+C:\Users\EHZU\OneDrive - Kaunas University of Technology\Project\VismaMeetings\VismaMeetings\obj\Debug\net6.0\VismaMeetings.pdb
+C:\Users\EHZU\OneDrive - Kaunas University of Technology\Project\VismaMeetings\VismaMeetings\bin\Debug\net6.0\VismaMeetings.exe
+C:\Users\EHZU\OneDrive - Kaunas University of Technology\Project\VismaMeetings\VismaMeetings\bin\Debug\net6.0\VismaMeetings.deps.json
+C:\Users\EHZU\OneDrive - Kaunas University of Technology\Project\VismaMeetings\VismaMeetings\bin\Debug\net6.0\VismaMeetings.runtimeconfig.json
+C:\Users\EHZU\OneDrive - Kaunas University of Technology\Project\VismaMeetings\VismaMeetings\bin\Debug\net6.0\VismaMeetings.dll
+C:\Users\EHZU\OneDrive - Kaunas University of Technology\Project\VismaMeetings\VismaMeetings\bin\Debug\net6.0\ref\VismaMeetings.dll
+C:\Users\EHZU\OneDrive - Kaunas University of Technology\Project\VismaMeetings\VismaMeetings\bin\Debug\net6.0\VismaMeetings.pdb
+C:\Users\EHZU\OneDrive - Kaunas University of Technology\Project\VismaMeetings\VismaMeetings\obj\Debug\net6.0\VismaMeetings.genruntimeconfig.cache
